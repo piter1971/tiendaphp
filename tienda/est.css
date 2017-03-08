@@ -1,0 +1,74 @@
+body{
+  background-image:url(imag/FondoTabla.gif);
+  background-repeat:no-repeat;
+  background-size: auto 400%;
+
+}
+
+#lat{
+  position: fixed;
+      height: 100%;
+      bottom: 0px;
+      right: 81%;
+      width: : 49px;
+      border: 3px solid #7F7FFF;
+}
+#cab{
+  position: fixed;
+  width: 1100px;
+  height: 20%;
+      bottom:auto;
+      right: 0%;
+      border: 3px solid #7F7FFF;
+}
+#central{
+  position: fixed;
+    bottom: 500px;
+    right: 350px;
+    width: 600px;
+      height="60px";
+    border: 3px solid #73AD21;
+}
+#Ped{
+  position: fixed;
+  top: 50px;
+  left: 800px;
+  width="50px";
+  height="30px";
+}
+
+#Piezas{
+  position: fixed;
+  top: 50px;
+  left: 400px;
+  width="70px";
+  height="30px";
+
+}
+#tablapiezas{
+  position: fixed;
+  top: 50px;
+  left: 520px;
+  width="70px";
+  height="30px";
+}
+
+#piezanueva{
+  position: fixed;
+  top: 50px;
+  left: 520px;
+  width="70px";
+  height="30px";
+}
+#modificarpieza{
+  position: fixed;
+  top: 50px;
+  left: 520px;
+  width="70px";
+  height="30px";
+}
+
+#eliminar{
+  background:url(./imag/delete.gif) no-repeat;
+
+}
